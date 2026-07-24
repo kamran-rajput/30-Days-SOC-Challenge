@@ -171,8 +171,7 @@ This repository is created strictly for **educational purposes** as part of a se
 ## Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/kami-rajput](https://linkedin.com/in/kami-rajput/)
-- **GitHub:** [Add your GitHub profile link]
-- **Portfolio:** [Add your portfolio website link]
+- **GitHub:** [github.com/kamran-rajput/](https://github.com/kamran-rajput/)
 
 ---
 
