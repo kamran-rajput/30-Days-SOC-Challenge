@@ -84,7 +84,7 @@ Each `Challenge-XX` folder covers a 5-day block and contains a detailed daily lo
 |-----------|------|-----------------|--------|
 | Challenge-01 | Day 01–05 | Log analysis fundamentals: Windows Security & PowerShell logs, LOLBAS, UFW port-scan detection, SSH brute-force detection | ✅ Complete |
 | Challenge-02 | Day 06–10 | Wireshark packet analysis: capture vs. display filters, ICMP, TCP (3-way handshake), HTTP, TLS | ✅ Complete |
-| Challenge-03 | Day 11–15 | Windows event logs, SIEM basics, Wazuh setup | ⏳ Upcoming |
+| Challenge-03 | Day 11–15 | Windows event logs, SIEM basics, Wazuh setup | ✅ Complete |
 | Challenge-04 | Day 16–20 | Splunk searching, log correlation, alerting | ⏳ Upcoming |
 | Challenge-05 | Day 21–25 | Email analysis, phishing investigation | ⏳ Upcoming |
 | Challenge-06 | Day 26–30 | Threat intel, MITRE ATT&CK, detection engineering | ⏳ Upcoming |
